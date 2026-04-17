@@ -12,5 +12,8 @@ Unity Patching tool: https://discussions.unity.com/t/cve-2025-59489-patcher-tool
 
 Side note, if you install the unity project, the main menu scene is called main
 
+
+ALSO i own nothing, all assets and basically everything belongs to Nekki
+
 **Future plans**
 In the next few updates along with bug fixes ill probably add a command that lets you load custom backgrounds, a long with a custom background folder, youll probably sort it with the level editor, I'm also considering custom OST support through a custom OSTs folder.
