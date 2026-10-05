@@ -1,3 +1,12 @@
+# **THIS IS OUT OF DATE, PLEASE CONSIDER USING THE NEW VERSION HERE: https://github.com/Ghost29012/Vector-2-Modding-Project**
+
+A NEW, BETTER, MORE ADVANCED VERSION OF THE VECTOR 2 IS ALSO AVAILABLE HERE:
+
+**macOS:** https://github.com/Ghost29012/Vector-2-SDK/releases/tag/Release
+
+**Windows:** https://github.com/tomdev290/Vector-2-SDK-Windows/releases/tag/Release
+
+
 # Vector2-UnityProject
 Vector 2 Unity project originally by Sonamenil
 
